@@ -43,3 +43,17 @@
 .what.h2 {
     padding-bottom: 40px;
 }
+
+#product,
+#development,
+#design {
+    display: none;
+    font-size: 16px;
+}
+
+#product .head1,
+#development .head2,
+#design .head3 {
+    font-size: 20px;
+    font-weight: 600;
+}
