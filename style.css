@@ -26,9 +26,11 @@
 
 .services {
     text-align: center;
-    background-image: url("assets/backgrounds/s_image.jpg");
+    background-image: url("/assets/backgrounds/s_image.jpg");
     color: white;
     background-position: center;
     background-size: cover;
     font-size: medium;
+    padding-top: 20;
+    padding-bottom: 25;
 }
