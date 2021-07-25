@@ -18,5 +18,5 @@ There are no bugs.
 ## Support and contact details
 For support and contact details, you can find me at brendaandeso4@gmail.com
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) licence
 Copyright (c) {2021}**Brenda Andeso**
