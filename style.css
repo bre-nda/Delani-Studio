@@ -108,29 +108,6 @@
             color: white;
         }
         
-        #EMAIL,
-        #NAME,
-        #comment {
-            background: transparent;
-            color: white;
-            font-size: 20px;
-        }
-        
-        input[type=text] {
-            background: transparent;
-            color: white;
-        }
-        
-        textarea[type=text] {
-            background: transparent;
-            color: white;
-        }
-        
-        input[type=email] {
-            background: transparent;
-            color: white;
-        }
-        
         .form-control {
             color: white;
         }
@@ -163,4 +140,14 @@
             margin-left: 20%;
             padding-bottom: 30px;
             margin-bottom: 20px;
+            padding-top: 20%;
+            margin-top: 20px;
+        }
+        
+        input[type=text],
+        input[type=email],
+        #comment {
+            background: transparent;
+            color: white;
+            font-size: 20px;
         }
