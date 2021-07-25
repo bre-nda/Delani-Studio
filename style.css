@@ -69,14 +69,7 @@
     }
     
     #portfolio {
-        display: flex;
-        flex-wrap: wrap;
         align-items: center;
-        margin-left: 18%;
-        margin-right: 16%;
-    }
-    
-    .col-md-3 img {
-        width: 100%px;
-        margin: 20px;
+        margin-left: 5%;
+        margin-right: 5%;
     }
