@@ -130,3 +130,7 @@
             background: transparent;
             color: white;
         }
+        
+        .form-control {
+            color: white;
+        }
