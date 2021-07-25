@@ -42,8 +42,52 @@ $(document).ready(function() {
     });
 
 });
-$('.col-md-3').hover(function() {
-    $('.text', this).slideToggle('slow');
-}, function() {
-    $('.text', this).slideToggle('slow');
-});
+$("#work1").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
+$("#work2").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
+
+$("#work3").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
+$("#work4").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
+$("#work5").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
+$("#work6").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
+$("#work7").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
+$("#work8").hover(function() {
+        $(this).animate({ opacity: '0.3' });
+    },
+    function() {
+        $(this).animate({ opacity: '1' });
+    })
