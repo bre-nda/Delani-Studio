@@ -106,6 +106,7 @@
             background-position: center center;
             background-size: cover;
             color: white;
+            text-decoration-color: white;
         }
         
         .form-control {
@@ -150,4 +151,13 @@
             background: transparent;
             color: white;
             font-size: 20px;
+        }
+        
+        footer {
+            text-align: center;
+            padding-top: 30px;
+        }
+        
+        footer p {
+            margin-top: 10px;
         }
