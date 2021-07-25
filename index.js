@@ -44,9 +44,12 @@ $(document).ready(function() {
 });
 $("#work1").hover(function() {
         $(this).animate({ opacity: '0.3' });
+
     },
     function() {
         $(this).animate({ opacity: '1' });
+
+
     })
 $("#work2").hover(function() {
         $(this).animate({ opacity: '0.3' });
@@ -81,12 +84,15 @@ $("#work6").hover(function() {
     })
 $("#work7").hover(function() {
         $(this).animate({ opacity: '0.3' });
+
     },
     function() {
         $(this).animate({ opacity: '1' });
     })
+
 $("#work8").hover(function() {
         $(this).animate({ opacity: '0.3' });
+
     },
     function() {
         $(this).animate({ opacity: '1' });
